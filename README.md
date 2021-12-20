@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EM1607
 - 👀 I’m interested in ASP.NET Core
 - 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on ASP.NET Core projects
+- 💞️ I’m looking to collaborate on C# projects
 - 📫 ehi_1@hotmailco.uk
 
 <!---
